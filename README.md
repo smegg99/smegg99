@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on random projects (with most focus on ZSEM-Bells) just to silence the inevitable feeling of passing time...<br>🌱 I’m currently learning Dart+Flutter<br>💬 Ask me about deez nuts<br>⚡ Honey badgers are the most badass animals ever
+🔭 I'm currently working on random projects (with most focus on ZSEM-Bells) just to silence the inevitable feeling of passing time...<br>🌱 I’m currently learning Dart+Flutter<br>💬 Ask me about deez nuts<br>⚡ Honey badgers are the most badass animals ever<br>🏫 A student in ZSEM in Nowy Sącz
 
 
 ## 🌐 Socials:
