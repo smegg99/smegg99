@@ -21,7 +21,6 @@
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SmeggMann99&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmeggMann99&theme=dark&hide_border=true" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmeggMann99&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
