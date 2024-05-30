@@ -62,6 +62,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smugg99&theme=github_dark" width="695" height="200">
 </div>
 
+<br>
+
 <div align="center" style="display: flex; justify-content: center; margin: 20px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smugg99&theme=github_dark" width="350" height="200">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smugg99&theme=github_dark" width="350" height="200">
