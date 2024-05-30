@@ -57,29 +57,19 @@
 
 <br>
 <br>
-<div align="center" style="display: flex; justify-content: center; gap: 5px;">
+<div align="center" style="display: flex; justify-content: center;">
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smugg99&theme=github_dark)
-
+</div>
+<div align="center" style="display: flex; justify-content: center;margin: 10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smugg99&theme=github_dark" width="300" height="150">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smugg99&theme=github_dark" width="300" height="150">
+</div>
+<div align="center" style="display: flex; justify-content: center;margin: 10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smugg99&theme=github_dark" width="300" height="150">
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 5px;">
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smugg99&theme=github_dark)
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smugg99&theme=github_dark)
-
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 5px;">
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smugg99&theme=github_dark)
-
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-
+<div align="center" style="display: flex; justify-content: center; margin: 10px;">
   [![](https://visitcount.itsvg.in/api?id=smugg99&icon=5&color=12)](https://visitcount.itsvg.in)
-
 </div>
