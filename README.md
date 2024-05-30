@@ -55,12 +55,11 @@
 </div>
 
 <br>
-<br>
 
 <h1 align="center">Stats</h1>
 
 <div align="center" style="display: flex; justify-content: center; margin: 20px; gap: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smugg99&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smugg99&theme=github_dark" width="700" height="200">
 </div>
 
 <div align="center" style="display: flex; justify-content: center; margin: 20px; gap: 10px;">
