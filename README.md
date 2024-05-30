@@ -57,14 +57,14 @@
 
 <br>
 <br>
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 5px;">
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smugg99&theme=github_dark)
 
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 5px;">
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smugg99&theme=github_dark)
 
@@ -72,7 +72,7 @@
 
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 5px;">
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smugg99&theme=github_dark)
 
