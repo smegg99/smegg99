@@ -70,6 +70,10 @@
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smugg99&theme=github_dark)
 
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smugg99&theme=github_dark)
 
 </div>
