@@ -59,24 +59,19 @@
 <h1 align="center">Stats</h1>
 
 <div align="center" style="display: flex; justify-content: center; margin: 20px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smugg99&theme=github_dark" width="693" height="200">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smeggmann99&theme=github_dark" width="693" height="200">
 </div>
 
 <br>
 
 <div align="center" style="display: flex; justify-content: center; margin: 20px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smugg99&theme=github_dark" width="350" height="200">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smugg99&theme=github_dark" width="350" height="200">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smeggmann99&theme=github_dark" width="350" height="200">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smeggmann99&theme=github_dark" width="350" height="200">
 </div>
 
 <div align="center" style="display: flex; justify-content: center; margin: 20px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smugg99&theme=github_dark" width="350" height="200">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smeggmann99&theme=github_dark" width="350" height="200">
 </div>
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; margin: 20px;">
-
-  [![](https://visitcount.itsvg.in/api?id=smugg99&icon=5&color=12)](https://visitcount.itsvg.in)
-
-</div>
