@@ -90,16 +90,16 @@
 
   <span>
     <h2>🚀 Featured Projects</h3>
-    <p>🔹 <a href="https://github.com/smegg99/Goptivum"><b>Goptivum</b></a> — Better frontend and API for the Vulcan Optivum schedule built with Go, TypeScript, Vue, and Docker.</p>
-    <p>🔹 <a href="https://github.com/smegg99/LoRaptor"><b>LoRaptor</b></a> — FOSS LoRa mesh messaging platform with custom hardware, firmware and a chat app, written in C++ using Arduino and Dart + Flutter.</p>
+    <p>🔹 <a href="https://github.com/smegg99/Goptivum"><b>Goptivum</b></a> - Better frontend and API for the Vulcan Optivum schedule built with Go, TypeScript, Vue, and Docker.</p>
+    <p>🔹 <a href="https://github.com/smegg99/LoRaptor"><b>LoRaptor</b></a> - FOSS LoRa mesh messaging platform with custom hardware, firmware and a chat app, written in C++ using Arduino and Dart + Flutter.</p>
   </span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span>
     <h2>🏆 Achievements</h3>
-    <p>🥇 Finalist – HackYeah 2024</p>
-    <p>🏅 Laureate – Olimpiada Własnych Prac Technicznych w Elektronice i Mechatronice 2023</p>
-    <p>🥇 1 Miejsce – XIII Małopolski Konkurs Własnych Prac Technicznych 2024</p>
-    <p>🥈 2 Miejsce – XIV Małopolski Konkurs Własnych Prac Technicznych 2025</p>
+    <p>🥇 Finalist - HackYeah 2024</p>
+    <p>🏅 Laureate - Olimpiada Własnych Prac Technicznych w Elektronice i Mechatronice 2023</p>
+    <p>🥇 1 Miejsce - XIII Małopolski Konkurs Własnych Prac Technicznych 2024</p>
+    <p>🥈 2 Miejsce - XIV Małopolski Konkurs Własnych Prac Technicznych 2025</p>
   </span>
 
 </div>
