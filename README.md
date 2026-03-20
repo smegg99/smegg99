@@ -90,6 +90,7 @@
 
   <span>
     <h2>🚀 Featured Projects</h3>
+    <p>🔹 <a href="https://github.com/smegg99/ThugHunter"><b>ThugHunter</b></a> - Program for hunting thugs on the internet, powered by Censys Search.</p>
     <p>🔹 <a href="https://github.com/smegg99/Goptivum"><b>Goptivum</b></a> - Better frontend and API for the Vulcan Optivum schedule built with Go, TypeScript, Vue, and Docker.</p>
     <p>🔹 <a href="https://github.com/smegg99/LoRaptor"><b>LoRaptor</b></a> - FOSS LoRa mesh messaging platform with custom hardware, firmware and a chat app, written in C++ using Arduino and Dart + Flutter.</p>
   </span>
