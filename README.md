@@ -99,8 +99,10 @@
     <h2>🏆 Achievements</h3>
     <p>🥇 Finalist - HackYeah 2024</p>
     <p>🏅 Laureate - Olimpiada Własnych Prac Technicznych w Elektronice i Mechatronice 2023</p>
+    <p>🥇 1 Miejsce - Science Fair in ZSEM Nowy Sącz 2025</p>
     <p>🥇 1 Miejsce - XIII Małopolski Konkurs Własnych Prac Technicznych 2024</p>
     <p>🥈 2 Miejsce - XIV Małopolski Konkurs Własnych Prac Technicznych 2025</p>
+    <p>🥈 2 Miejsce - Science Fair in ZSEM Nowy Sącz 2024</p>
   </span>
 
 </div>
