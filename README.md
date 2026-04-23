@@ -14,14 +14,14 @@ Most of my work sits somewhere between Go backends, TypeScript frontends, embedd
 
 ## Selected projects
 
-### [Goptivum](https://github.com/smegg99/Goptivum)
-Goptivum is a modern, FOSS alternative to Vulcan Optivum. The plan is to expand it beyond a better frontend by building a custom schedule solver and adding tools that make creating and managing school timetables less painful.
+### [Goptivum](https://github.com/smegg99/Goptivum) <img src="./assets/logos/goptivum.svg" alt="Goptivum logo" width="28" valign="middle" />
+Goptivum is a modern, FOSS alternative to Vulcan Optivum. The plan is to expand it beyond a better frontend by building a custom schedule solver and adding tools that make creating and managing school timetables less painful.  
 It also has its own hardware controller, **ScheduleKeepr**. Earlier revisions have been running at ZSEM since early 2024, and I’m currently developing a new version with a proper hardware redesign. This is my main project that I am working on now. It has been presented as a science fair project.
 
-### [ThugHunter](https://github.com/smegg99/ThugHunter)
+### [ThugHunter](https://github.com/smegg99/ThugHunter) <img src="./assets/logos/thughunter.svg" alt="ThugHunter logo" width="28" valign="middle" />
 Tool for hunting thugs on the internet (OSINT), powered by Censys Search. (WIP, Pavel Khlebovich camera app support pending)
 
-### [LoRaptor](https://github.com/smegg99/LoRaptor)
+### [LoRaptor](https://github.com/smegg99/LoRaptor) <img src="./assets/logos/loraptor.svg" alt="LoRaptor logo" width="28" valign="middle" />
 FOSS LoRa mesh messaging platform with custom hardware, firmware, and a chat app. Built with C++, Arduino, Dart, and Flutter. It was also presented as a science fair project. (kinda abandoned, I have an idea on how to revive it though)
 
 ## Awards
