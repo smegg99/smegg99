@@ -27,7 +27,7 @@ It also has its own hardware controller, **ScheduleKeepr**. Earlier revisions ha
 ## Awards
 
 - HackYeah 2024 - Finalist
-- Olimpiada Własnych Prac Technicznych w Elektronice i Mechatronice 2023 - Laureate
+- Olimpiada Własnych Prac Technicznych w Elektronice i Mechatronice PZSWiR 2023 - Finalist
 - XIII Małopolski Konkurs Własnych Prac Technicznych 2024 - 1st place
 - XIV Małopolski Konkurs Własnych Prac Technicznych 2025 - 2nd place
 - Science Fair, ZSEM Nowy Sącz 2025 - 1st place
