@@ -14,16 +14,16 @@ Most of my work sits somewhere between Go backends, TypeScript frontends, embedd
 
 ## Selected projects
 
-### [Goptivum](https://github.com/smegg99/Goptivum) <img src="./assets/logos/goptivum.svg" alt="Goptivum logo" width="28" valign="middle" />
+### [<img src="./assets/logos/goptivum.svg" alt="Goptivum logo" width="256" valign="middle" />](https://github.com/smegg99/Goptivum)
 Goptivum is a modern, FOSS alternative to Vulcan Optivum, built around a Go API, parser, and tools for working with school schedules. The plan is to expand it beyond a better frontend by building a custom schedule solver and making timetable management less painful. This is my main project now, it's still WIP.
 
-### [ScheduleKeeper](https://github.com/smegg99/ScheduleKeeper) <img src="./assets/logos/schedulekeeper.svg" alt="ScheduleKeeper logo" width="34" valign="middle" />
+### [<img src="./assets/logos/schedulekeeper.svg" alt="ScheduleKeeper logo" width="256" valign="middle" />](https://github.com/smegg99/ScheduleKeeper) 
 ScheduleKeeper is the hardware side of the Goptivum ecosystem: a custom controller for school schedule automation, with KiCad designs for the main controller and display hardware. The new public repository is still WIP and currently mostly contains hardware design files plus a placeholder README. The project itself is WIP too, while the redesigned hardware and the surrounding firmware/software are being built out.
 
-### [ThugHunter](https://github.com/smegg99/ThugHunter) <img src="./assets/logos/thughunter.svg" alt="ThugHunter logo" width="28" valign="middle" />
+### [<img src="./assets/logos/thughunter.svg" alt="ThugHunter logo" width="256" valign="middle" />](https://github.com/smegg99/ThugHunter) 
 Desktop OSINT tool for finding publicly accessible services through Censys Search, currently focused on VNC and built with Go, Wails, Nuxt, and SQLite. It handles scraping, scanning, screenshots, account management, and local browsing of collected hosts. (WIP, Pavel Khlebovich camera app support pending)
 
-### [LoRaptor](https://github.com/smegg99/LoRaptor) <img src="./assets/logos/loraptor.svg" alt="LoRaptor logo" width="28" valign="middle" />
+### [<img src="./assets/logos/loraptor.svg" alt="LoRaptor logo" width="256" valign="middle" />](https://github.com/smegg99/LoRaptor) 
 FOSS LoRa mesh messaging platform with custom ESP32-S3 + RA-02 hardware, mesh firmware, a CLI, and a Flutter chat app for off-grid communication. It was also presented as a science fair project. (kinda abandoned, I have an idea on how to revive it though)
 
 ## Awards
