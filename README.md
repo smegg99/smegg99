@@ -17,6 +17,9 @@ Most of my work sits somewhere between Go backends, TypeScript frontends, embedd
 ### [<img src="./assets/logos/goptivum.svg" alt="Goptivum logo" width="256" valign="middle" />](https://github.com/smegg99/Goptivum)
 Goptivum is a modern, FOSS alternative to Vulcan Optivum, built around a Go API, parser, and tools for working with school schedules. The plan is to expand it beyond a better frontend by building a custom schedule solver and making timetable management less painful. This is my main project now, it's still WIP.
 
+### [<img src="./assets/logos/qr2g.it.svg" alt="qr2g.it logo" width="256" valign="middle" />](https://github.com/smegg99/qr2g.it)
+qr2g.it is a small site for permanent, QR-friendly short links to public GitHub repositories. It takes GitHub repo URLs, returns stable short links and customizable QR codes, and keeps links tied to GitHub repository identities so renames or transfers can still resolve correctly.
+
 ### [<img src="./assets/logos/schedulekeeper.svg" alt="ScheduleKeeper logo" width="256" valign="middle" />](https://github.com/smegg99/ScheduleKeeper) 
 ScheduleKeeper is the hardware side of the Goptivum ecosystem: a custom controller for school schedule automation, with KiCad designs for the main controller and display hardware. The new public repository is still WIP and currently mostly contains hardware design files plus a placeholder README. The project itself is WIP too, while the redesigned hardware and the surrounding firmware/software are being built out.
 
