@@ -14,6 +14,9 @@ Most of my work sits somewhere between Go backends, TypeScript frontends, embedd
 
 ## Selected projects
 
+### [<img src="./assets/logos/smeggtuner.svg" alt="SmeggTuner logo" width="256" valign="middle" />](https://github.com/smegg99/SmeggTuner)
+SmeggTuner is a FOSS accordion tuner that measures up to three reeds at once and the beats between them, live through a microphone or from WAV recordings. It supports tones, octaves, and chords, with per-microphone calibration. Runs on Linux and Windows, with experimental Android and web versions. Still in beta. Downloads and the browser version are available at [smeggtuner.com](https://smeggtuner.com).
+
 ### [<img src="./assets/logos/goptivum.svg" alt="Goptivum logo" width="256" valign="middle" />](https://github.com/smegg99/Goptivum)
 Goptivum is a modern, FOSS alternative to Vulcan Optivum, built around a Go API, parser, and tools for working with school schedules. The plan is to expand it beyond a better frontend by building a custom schedule solver and making timetable management less painful. This is my main project now, it's still WIP.
 
