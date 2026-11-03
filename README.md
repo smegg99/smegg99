@@ -23,7 +23,7 @@ The bell controller I built for my old school. Running at ZSEM since late 2022, 
 
 [Source](https://github.com/smegg99/ScheduleKeeper) / [Explore the model](https://smegg.me/projects/schedulekeeper)
 
-<br clear="all" />
+<br clear="all" /><br /><br />
 
 <a href="https://smegg.me/projects/loraptor"><img align="right" src="./assets/renders/loraptor.png" alt="LoRaptor 3D model" width="420" /></a>
 
@@ -40,7 +40,7 @@ A LoRa messenger we built as a team of three: the board, firmware, and chat app.
 
 [Source](https://github.com/smegg99/LoRaptor) / [Explore the model](https://smegg.me/projects/loraptor)
 
-<br clear="all" />
+<br clear="all" /><br /><br />
 
 <a href="https://smegg.me/projects/cnc"><img align="right" src="./assets/renders/cnc.png" alt="SmeggCNC 3D model" width="420" /></a>
 
@@ -57,7 +57,7 @@ My 3018 Pro CNC, rebuilt in steel and aluminium.
 
 [Source](https://github.com/smegg99/SmeggCNC) / [Explore the model](https://smegg.me/projects/cnc)
 
-<br clear="all" />
+<br clear="all" /><br /><br />
 
 ## Software
 
@@ -70,6 +70,8 @@ My 3018 Pro CNC, rebuilt in steel and aluminium.
 
 A free accordion tuner. Measures reeds and the beats between them, from a microphone or a WAV file. [Try it or download it.](https://smeggtuner.com)
 
+<br />
+
 <h3><a href="https://github.com/smegg99/Goptivum">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/logos/goptivum.svg" />
@@ -78,6 +80,8 @@ A free accordion tuner. Measures reeds and the beats between them, from a microp
 </a></h3>
 
 I started Goptivum to replace Optivum at my school. It runs the bells at ZSEM; I'm still building my own timetable solver.
+
+<br />
 
 <h3><a href="https://qr2g.it">
   <picture>
@@ -88,6 +92,8 @@ I started Goptivum to replace Optivum at my school. It runs the bells at ZSEM; I
 
 Short links and QR codes for GitHub repos. Rename or transfer the repo; the link still works. [Source.](https://github.com/smegg99/qr2g.it)
 
+<br />
+
 <h3><a href="https://github.com/smegg99/plasma-deep-dim">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/logos/deepdim.svg" />
@@ -96,6 +102,8 @@ Short links and QR codes for GitHub repos. Rename or transfer the repo; the link
 </a></h3>
 
 For monitors that are still too bright at 0%. Per-monitor dimming on KDE Plasma / Wayland.
+
+<br />
 
 <h3><a href="https://github.com/smegg99/ThugHunter">
   <picture>
